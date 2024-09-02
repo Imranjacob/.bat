@@ -21,11 +21,11 @@ echo pinging "IP"
 ping "IP" -n 3 >>C:\Users\User\Desktop\Ping.txt
 timeout /t 5 /nobreak
 
-echo pinging 10.1.5.108
+echo pinging "IP"
 ping "IP" -n 3 >>C:\Users\User\Desktop\Ping.txt
 timeout /t 5 /nobreak
 
-echo pinging 10.1.5.109
+echo pinging "IP"
 ping "IP" -n 3 >>C:\Users\User\Desktop\Ping.txt
 timeout /t 5 /nobreak
 
